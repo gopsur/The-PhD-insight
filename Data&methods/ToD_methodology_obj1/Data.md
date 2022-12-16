@@ -1,4 +1,6 @@
-• Observations : in laptop: '/Users/gopika.s/Documents/ToD/data2/observation/observation/obs_updated/'
+$$\color{olive}{\ • Observations \\ }$$
+           $\color{blue}{In \\ laptop}$ : '/Users/gopika.s/Documents/ToD/data2/observation/observation/obs_updated/'
+
 
     1. COBE SST: 
           > cobesst_ref_1891_1950_tr_new.nc , cobesst_ref_1920_1970_tr_new.nc
@@ -29,7 +31,9 @@
           > Original grid : 5° latitude by 5° longitude, regridded to 2° latitude by 2° longitude
           > Reference : Kaplan, A., M. Cane, Y. Kushnir, A. Clement, M. Blumenthal, and B. Rajagopalan, Analyses of global sea surface temperature 1856-1991, Journal of Geophysical Research, 103, 18,567-18,589, 1998
           
-• Models : in laptop: '/Users/islab/Documents/islab/gopz/data2/cmip_data/'
+$$\color{green}{\ • Models \\ }$$
+           $\color{blue}{In \\ laptop}$ : '/Users/islab/Documents/islab/gopz/data2/cmip_data/'
+
 
     1. CMIP5 : cmip5_ref1890_1950_tr_34m.nc, cmip5_ref1920_1970_tr.nc
           > 34 models used, Ref period 1920-1970 36 are there convert to 34 inside the script
