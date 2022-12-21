@@ -1,4 +1,5 @@
 Observations: '/Users/gopika.s/Documents/ToD/data2/hadslp/'
+
     > ERA 20C : 
           > 1.125 degree x 1.121 degree global grids 
           > 20cr 10m uwind 24-hourly forcast daily mean 10m unit: m/s : https://rda.ucar.edu/datasets/ds626.0/index.html#!description
