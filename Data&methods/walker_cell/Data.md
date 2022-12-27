@@ -9,7 +9,8 @@ Observations: '/Users/gopika.s/Documents/ToD/data2/hadslp/'
           > SLP monthly mean unit: mb : http://www.psl.noaa.gov/data/gridded/data.ncep.reanalysis.derived.html
           > uwind surface as well as 10m unit m/s
     > HADSLP2
-          > 
+          > 5° x 5° grid
+          > SLP monthly mean unit: mb 
           > https://hadobs.metoffice.com/gmslp/hadslp2/\n"
           
     > NOAA-CIRES 20th Century Reanalysis (V2)
