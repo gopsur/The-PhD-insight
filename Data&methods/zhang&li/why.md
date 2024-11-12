@@ -1,6 +1,9 @@
 Why i am doing this?
 
-1. To compare how zhang doone this computation, and how much it is matching with observations, for using in our modelling strategy
-2. It is not practically possible to run a lot of number of models to get a MMM (which remove much of internal variability among models) , so we can make use of the wide range of CMIP models to understand how each parameters contributions
-3. This is more intersting to understand the mechanism part which will allow us to understand how each variables contribute to the indian ocean warming
-4. Finally it allow us to compare our simulations and we will be able to tell that we can better mach our simulations with cmip simulations , so that we can do sensitivity experiments and understand the contributions
+Comparison with Zhang and Li's Computation: We aim to compare our results with the computations by Zhang and Li to assess how closely our findings align with observational data. This comparison will help refine our modeling strategy and improve its accuracy.
+
+Challenges of Running Multiple Model ensemble for MEM: Running numerous models to obtain a Multi-ensemble Mean (MMM) is not practically feasible. However, by utilizing a broad range of CMIP models (1 member), we can still understand the contributions of individual parameters, helping us mitigate the effects of internal variability.
+
+Understanding Mechanisms: This approach provides valuable insights into the underlying mechanisms driving Indian Ocean warming. It will allow us to identify how different variables contribute to this warming, enhancing our understanding of the climate system's dynamics.
+
+Simulation Comparison and Sensitivity Experiments: By comparing our simulations with CMIP simulations, we can assess how closely our results match real-world observations. This will enable us to conduct sensitivity experiments and further investigate the contributions of different factors to the observed warming patterns.
